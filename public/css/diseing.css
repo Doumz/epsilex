@@ -1,0 +1,33 @@
+/*connexion*/
+.cash-conect{
+    background-color: rgb(126, 126, 138);
+    height: 10%;
+}
+
+.cash-conect .form-inline{
+    color: white ; 
+}
+.item{
+    width: 100%;
+}
+
+.cash-img{
+    width: 360px;
+    height: 700px;
+}
+
+.cash-mage{
+    width: 284px;
+    height: 300px;
+}
+.cash-mage .cash-image{
+    width: 300px;
+    height: 250px;
+}
+.cash-mage .cash-image:hover{
+   transform: scale(1.1)
+}
+
+.fourth-block{
+    margin-top: -10%;
+}
